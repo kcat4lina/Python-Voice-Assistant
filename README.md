@@ -7,6 +7,6 @@ pip install
 
 
 "
-import speech_recognition as sr
+import speech_recognition as sr,
 import pyttsx3
 "
